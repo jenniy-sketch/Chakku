@@ -26,8 +26,8 @@ KEY_PRICES = {
     'day': 80,   # 80 Rs per day
     'week': 500  # 500 Rs per week
 }
-ADMIN_IDS = [1949883614]
-BOT_TOKEN = "8169032486:AAF3lbIt8hSkNAOp-5zAfNqV2wXQ2ohxKrc"
+ADMIN_IDS = [6484371402]
+BOT_TOKEN = "7688083583:AAFpCG807ZnxuhplwH08ZKvUo4FkXYiwgdg"
 thread_count = 50
 BINARY_STATE_FILE = 'binary_state.json'
 ADMIN_FILE = 'admin_data.json'
