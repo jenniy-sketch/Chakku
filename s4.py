@@ -469,7 +469,7 @@ def handle_bgmi(message):
                 start_attack_reply(message, target, port, time)  # @DABBAowner GRP # Call start_attack_reply function
                 full_command = f"./russian {target} {port} {time} 900"
                 subprocess.run(full_command, shell=True)
-                response = f"🏆𝐀🅣𝐓𝐀𝐂𝐊 𝐅𝐈𝐍ｴ𝐒𝐇🏆\n🅣𝑨𝑹𝑮𝑬𝑻 :- {target}\nƤ☢rtส :- {port}\nTime▪out :- {time} \nƓคмε‿✶ 𝘽𝔾𝗠ｴ\n\n═══FUCK═══"
+                response = f"🏆𝐀🅣𝐓𝐀𝐂𝐊 𝐅𝐈𝐍ｴ𝐒𝐇🏆\n🅣𝑨𝑹𝑮𝑬𝑻 :- {target}\nƤ☢rtส :- {port}\nTime▪out :- {time} \nƓคмε‿✶ 𝘽𝔾𝗠ｴ\n\n═══CHODO💦═══"
         else:
             response = "𝙀𝙉𝙏𝙀𝙍 𝙏𝙃𝙀 𝘼𝙏𝙏𝘼𝘾𝙆\n𝗟𝗜𝗞𝗘 :- /𝗼𝗽 𝟮.𝟯𝟰.𝟱𝟲.𝟱𝟲 𝟮𝟯𝟰𝟱𝟲 18𝟬\n𝗟𝗜𝗞𝗘 :- /𝗼𝗽 𝘁𝗮𝗿𝗴𝗲𝘁 𝗽𝗼𝗿𝘁 𝘁𝗶𝗺𝗲\n\n═══FUCK═══"  # @DABBAowner GRP # Updated command syntax
     else:
